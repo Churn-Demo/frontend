@@ -1,5 +1,5 @@
 import { useMemo, useState } from "react";
-import logo from "./assets/custech.png";
+import logo from "../public/custech.png";
 
 export default function App() {
   const [customerId, setCustomerId] = useState("");
