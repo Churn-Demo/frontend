@@ -1,0 +1,20 @@
+# Node
+node_modules/
+
+# Build output (si haces build en Docker)
+dist/
+
+# Cache
+.npm/
+.vite/
+
+# OS / IDE
+.DS_Store
+.vscode/
+
+# Git
+.git/
+.gitignore
+
+# Env
+.env
